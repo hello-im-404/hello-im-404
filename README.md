@@ -2,7 +2,7 @@
 
 **whoami?**
 > **Aliases:** `hello-im-404` / `r31v14n`       
-> **NOT coder NOT pentster NOT human / / **
+> **NOT coder NOT pentster NOT human / /**
 
 ---
 
