@@ -2,7 +2,7 @@
 
 **whoami?**
 > **Aliases:** `hello-im-404` / `r31v14n`       
-> **self-taught web pentester**
+> **self-taught web pentester**         
 > **What i learning now? ** `low-level programming` / `reverse`
 ---
 
