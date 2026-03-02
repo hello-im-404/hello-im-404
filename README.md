@@ -2,11 +2,11 @@
 
 **whoami?**
 > **Aliases:** `hello-im-404` / `r31v14n`       
-> **NOT coder NOT pentester NOT human / /**
-
+> **self-taught web pentester**
+> **What i learning now? ** `low-level programming` / `reverse`
 ---
 
-**~$ ls -la /home/r31v14n/.secret**
+**~# ls -la /home/r31v14n/.secret**
 
 *   **[http request smuggler](https://github.com/hello-im-404/smuggler)** 
 *   **[XSS/SQLi/LFI finder](https://github.com/hello-im-404/vulnscanner)**
