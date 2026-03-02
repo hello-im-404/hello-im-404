@@ -19,9 +19,5 @@
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hello-im-404&layout=compact)
 
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hello-im-404&theme=github_dark" />
-</a>
-
 # Goodbye.
 
