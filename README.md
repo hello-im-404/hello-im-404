@@ -1,5 +1,7 @@
 # Hello.
 
+![j](1.jpg)
+
 ## *whoami?*
 self-taught pentester focused on web & low-level stuff.
 
